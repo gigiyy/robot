@@ -1,6 +1,6 @@
 /**
  * Robot name updater for UiPath Orchestrator.
- * require(uipath-orchestrator, csv-parse, config, log4js)
+ * require(uipath-orchestrator, csv-parse, config, log4js, async)
  *   -to install dependencies
  *     npm install
  *
