@@ -1,0 +1,10 @@
+{
+  "name": "robot",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "nconf": "latest",
+    "uipath-orchestrator": "git+https://github.com/qbrandon/uipath-orchestrator.git#90019544a0d7a3559bbe7f2c09a1ca444b712593",
+    "csv-parse": "latest"
+  }
+}
