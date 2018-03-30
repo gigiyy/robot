@@ -1,9 +1,8 @@
 /**
- * Robot name updator for UiPath Orchestator.
+ * Robot name updater for UiPath Orchestrator.
  * require(uipath-orchestrator, csv-parse, nconf)
  *   -to install dependencies
- *     npm install csv-parse nconf
- *     npm install https://github.com/qbrandon/uipath-orchestrator
+ *     npm install
  *
  *   -orchestrator config in file: orchestrator.json
  *   -target robot info etc configured through command line.
