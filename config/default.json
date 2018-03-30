@@ -1,0 +1,20 @@
+{
+    "orchestrator": {
+        "tenant": "default",
+        "server": "192.168.225.20",
+        "user": "namechanger",
+        "password": "1q2w3e4r",
+        "safe": false,
+        "port": 80
+    },
+    "log": {
+        "appenders": {"file": {"type": "file", "filename": "update.log"}},
+        "categories": {"default": {"appenders": ["file"], "level": "trace"}}
+    },
+    "csv": {
+        "file": "myupdate.csv",
+        "from": 1,
+        "count": 1
+    },
+    "prod": true
+}
