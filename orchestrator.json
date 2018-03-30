@@ -1,0 +1,8 @@
+{
+    "tenant": "default",
+    "server": "192.168.225.20",
+    "user": "namechanger",
+    "password": "1q2w3e4r",
+    "safe": false,
+    "port": 80
+}
