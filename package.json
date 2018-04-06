@@ -3,10 +3,11 @@
   "private": true,
   "version": "1.0.1",
   "dependencies": {
+    "async": "latest",
     "config": "latest",
-    "log4js": "latest",
-    "uipath-orchestrator": "git+https://github.com/qbrandon/uipath-orchestrator.git#90019544a0d7a3559bbe7f2c09a1ca444b712593",
     "csv-parse": "latest",
-    "async": "latest"
+    "eslint": "^4.19.1",
+    "log4js": "latest",
+    "uipath-orchestrator": "git+https://github.com/qbrandon/uipath-orchestrator.git#90019544a0d7a3559bbe7f2c09a1ca444b712593"
   }
 }
