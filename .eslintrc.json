@@ -252,6 +252,22 @@
         ],
         "valid-jsdoc": "off",
         "vars-on-top": "off",
+        "no-unused-vars": [
+            "error",
+            {
+                "varsIgnorePattern": "[iI]gnored",
+                "argsIgnorePattern": "^_"
+            }
+        ],
+        "no-console": [
+            "error",
+            {
+                "allow": [
+                    "warn",
+                    "error"
+                ]
+            }
+        ],
         "wrap-iife": "error",
         "wrap-regex": "error",
         "yield-star-spacing": "error",
