@@ -16,5 +16,6 @@
         "from": 1,
         "count": 1
     },
-    "prod": true
+    "prod": true,
+    "unitEnabled": true
 }
