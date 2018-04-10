@@ -9,6 +9,8 @@ node index.js
 ```
 
 ## configuration
+Application configurations are stroed in `confing` folder.
+Check out `config` module docs for [more details](https://github.com/lorenwest/node-config/wiki/Environment-Variables)
 
 ### orchestrator
 Update the server info as needed. the user should have Robt/view and Robot/update privileges and Unit/view privileges if organization unit is enabled in orchestrator server.
