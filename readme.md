@@ -22,6 +22,7 @@ Update the server info as needed. the user should have Robt/view and Robot/updat
         "password": "1q2w3e4r",
         "safe": false,
         "port": 80
+    }
 ```
 
 ### csv
@@ -50,6 +51,6 @@ If organization unit is enabled in Orchestrator, please set to `true` accordingl
 ```
 
 ### log
-there is two log files generated.
+There is two log files generated.
 * `update.lot` detailed execution logs.
 * `update_result.csv` CSV formated update result file.

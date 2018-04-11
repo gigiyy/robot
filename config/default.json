@@ -18,7 +18,7 @@
                 "filename": "update_result.csv",
                 "layout": {
                     "type": "pattern",
-                    "pattern": "%d,%m%n"
+                    "pattern": "%d,%m"
                 }
             }
         },
@@ -40,7 +40,7 @@
     "csv": {
         "file": "myupdate.csv",
         "from": 1,
-        "count": 1
+        "count": "all"
     },
     "prod": true,
     "unitEnabled": true
