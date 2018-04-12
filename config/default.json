@@ -1,7 +1,7 @@
 {
     "orchestrator": {
         "tenant": "default",
-        "server": "192.168.225.20",
+        "server": "my.orchestrator.local",
         "user": "namechanger",
         "password": "1q2w3e4r",
         "safe": false,
