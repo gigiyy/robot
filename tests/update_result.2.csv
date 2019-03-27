@@ -1,0 +1,9 @@
+2018-04-11T10:09:33.603,担当,GuixinX1,LAPTOP-N4C4A480,Guixin,GuixinX1New,Failed-connect ETIMEDOUT 192.168.225.20:80
+2018-04-11T10:29:13.517,担当,GuixinX1,LAPTOP-N4C4A480,Guixin,GuixinX1New,Skipped-already updated
+2018-04-11T10:29:14.738,担当,GuixinX1,LAPTOP-N4C4A480,GuixinDummy,GuixinX1New,Failed-Unexpected number of robots found: 0
+2018-04-11T10:29:15.690,担当,GuixinX1,LAPTOP-Dummy,Guixin,GuixinX1New,Failed-Unexpected number of robots found: 0
+2018-04-11T10:29:15.909,担当Dummy,GuixinX1,LAPTOP-Dummy,Guixin,GuixinX1New,Failed-Unexpected number of organization units: 0
+2018-04-11T10:35:47.570,担当,GuixinX1New,LAPTOP-N4C4A480,Guixin,GuixinX1,OK
+2018-04-11T10:35:48.983,担当,GigiyyX1New,LAPTOP-N4C4A480,Gigiyy,GigiyyX1,OK
+2018-04-11T10:35:49.096,test,Test,LAPTOP-N4C4A480,TestUser,TestNew,Failed-Unexpected status code: 400
+2018-04-11T10:44:58.116,test,Test,LAPTOP-N4C4A480,TestUser,TestNew,OK

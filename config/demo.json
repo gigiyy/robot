@@ -1,0 +1,14 @@
+{
+    "orchestrator": {
+        "tenant": "guixinUipath",
+        "server": "demo.uipath.com",
+        "user": "namechanger",
+        "password": "1q2w3e4r",
+        "safe": true,
+        "port": 443
+    },
+    "csv": {
+        "file": "demoupdate.csv"
+    },
+    "unitEnabled": false
+}

@@ -1,0 +1,114 @@
+[2018-04-11T10:09:12.580] [INFO] default - ##############################################
+[2018-04-11T10:09:12.582] [INFO] default - # Starting Orchestrator Robt name updator...
+[2018-04-11T10:09:12.583] [INFO] default - ##############################################
+[2018-04-11T10:09:12.583] [INFO] default - Updater configuration: { tenant: 'default',
+  server: '192.168.225.20',
+  user: 'namechanger',
+  password: '1q2w3e4r',
+  safe: false,
+  port: 80 }
+[2018-04-11T10:09:12.591] [INFO] default - Processing Robot entry: 担当\\LAPTOP-N4C4A480\Guixin GuixinX1=>GuixinX1New
+[2018-04-11T10:09:12.591] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:09:33.603] [ERROR] default - Failed handling robot.
+[2018-04-11T10:09:33.603] [ERROR] default - Error: connect ETIMEDOUT 192.168.225.20:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1173:14)
+[2018-04-11T10:09:33.605] [INFO] default - Done
+[2018-04-11T10:29:08.509] [INFO] default - ##############################################
+[2018-04-11T10:29:08.510] [INFO] default - # Starting Orchestrator Robt name updator...
+[2018-04-11T10:29:08.511] [INFO] default - ##############################################
+[2018-04-11T10:29:08.512] [INFO] default - Updater configuration: { tenant: 'default',
+  server: '192.168.225.20',
+  user: 'namechanger',
+  password: '1q2w3e4r',
+  safe: false,
+  port: 80 }
+[2018-04-11T10:29:08.520] [INFO] default - Processing Robot entry: 担当\\LAPTOP-N4C4A480\Guixin GuixinX1=>GuixinX1New
+[2018-04-11T10:29:08.520] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:29:11.791] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:29:13.517] [INFO] default - Robot name already up-to-date: GuixinX1New
+[2018-04-11T10:29:13.518] [INFO] default - Processing Robot entry: 担当\\LAPTOP-N4C4A480\GuixinDummy GuixinX1=>GuixinX1New
+[2018-04-11T10:29:13.518] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:29:13.519] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:29:14.738] [ERROR] default - Failed handling robot.
+[2018-04-11T10:29:14.738] [ERROR] default - Error: Unexpected number of robots found: 0
+    at C:\Working\robotreviewed\lib\orchestratorHelper.js:111:22
+    at Orchestrator._triggerQueueElementCallback (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\Orchestrator.js:140:9)
+    at C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\Orchestrator.js:168:14
+    at IncomingMessage.<anonymous> (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\restHelper.js:79:13)
+    at IncomingMessage.emit (events.js:185:15)
+    at endReadableNT (_stream_readable.js:1101:12)
+    at process._tickCallback (internal/process/next_tick.js:114:19)
+[2018-04-11T10:29:14.738] [INFO] default - Processing Robot entry: 担当\\LAPTOP-Dummy\Guixin GuixinX1=>GuixinX1New
+[2018-04-11T10:29:14.738] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:29:14.740] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:29:15.690] [ERROR] default - Failed handling robot.
+[2018-04-11T10:29:15.690] [ERROR] default - Error: Unexpected number of robots found: 0
+    at C:\Working\robotreviewed\lib\orchestratorHelper.js:111:22
+    at Orchestrator._triggerQueueElementCallback (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\Orchestrator.js:140:9)
+    at C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\Orchestrator.js:168:14
+    at IncomingMessage.<anonymous> (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\restHelper.js:79:13)
+    at IncomingMessage.emit (events.js:185:15)
+    at endReadableNT (_stream_readable.js:1101:12)
+    at process._tickCallback (internal/process/next_tick.js:114:19)
+[2018-04-11T10:29:15.691] [INFO] default - Processing Robot entry: 担当Dummy\\LAPTOP-Dummy\Guixin GuixinX1=>GuixinX1New
+[2018-04-11T10:29:15.691] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:29:15.908] [ERROR] default - Failed handling robot.
+[2018-04-11T10:29:15.909] [ERROR] default - Error: Unexpected number of organization units: 0
+    at C:\Working\robotreviewed\lib\orchestratorHelper.js:54:22
+    at Orchestrator._triggerQueueElementCallback (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\Orchestrator.js:140:9)
+    at C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\Orchestrator.js:168:14
+    at IncomingMessage.<anonymous> (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\restHelper.js:79:13)
+    at IncomingMessage.emit (events.js:185:15)
+    at endReadableNT (_stream_readable.js:1101:12)
+    at process._tickCallback (internal/process/next_tick.js:114:19)
+[2018-04-11T10:29:15.909] [INFO] default - Done
+[2018-04-11T10:35:43.325] [INFO] default - ##############################################
+[2018-04-11T10:35:43.326] [INFO] default - # Starting Orchestrator Robt name updator...
+[2018-04-11T10:35:43.326] [INFO] default - ##############################################
+[2018-04-11T10:35:43.328] [INFO] default - Updater configuration: { tenant: 'default',
+  server: '192.168.225.20',
+  user: 'namechanger',
+  password: '1q2w3e4r',
+  safe: false,
+  port: 80 }
+[2018-04-11T10:35:43.336] [INFO] default - Processing Robot entry: 担当\\LAPTOP-N4C4A480\Guixin GuixinX1New=>GuixinX1
+[2018-04-11T10:35:43.337] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:35:44.926] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:35:45.802] [TRACE] default - Getting back the detailed information about the robot
+[2018-04-11T10:35:46.102] [TRACE] default - update the robot name.
+[2018-04-11T10:35:46.993] [TRACE] default - checking update result.
+[2018-04-11T10:35:47.570] [INFO] default - Updated Robot name to GuixinX1 for GuixinX1New
+[2018-04-11T10:35:47.571] [INFO] default - Processing Robot entry: 担当\\LAPTOP-N4C4A480\Gigiyy GigiyyX1New=>GigiyyX1
+[2018-04-11T10:35:47.571] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:35:47.571] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:35:47.941] [TRACE] default - Getting back the detailed information about the robot
+[2018-04-11T10:35:47.990] [TRACE] default - update the robot name.
+[2018-04-11T10:35:48.657] [TRACE] default - checking update result.
+[2018-04-11T10:35:48.983] [INFO] default - Updated Robot name to GigiyyX1 for GigiyyX1New
+[2018-04-11T10:35:48.983] [INFO] default - Processing Robot entry: test\\LAPTOP-N4C4A480\TestUser Test=>TestNew
+[2018-04-11T10:35:48.983] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:35:49.076] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:35:49.096] [ERROR] default - Failed handling robot.
+[2018-04-11T10:35:49.096] [ERROR] default - Error: Unexpected status code: 400
+    at IncomingMessage.<anonymous> (C:\Working\robotreviewed\node_modules\uipath-orchestrator\lib\restHelper.js:76:19)
+    at IncomingMessage.emit (events.js:185:15)
+    at endReadableNT (_stream_readable.js:1101:12)
+    at process._tickCallback (internal/process/next_tick.js:114:19)
+[2018-04-11T10:35:49.097] [INFO] default - Done
+[2018-04-11T10:44:57.625] [INFO] default - ##############################################
+[2018-04-11T10:44:57.626] [INFO] default - # Starting Orchestrator Robt name updator...
+[2018-04-11T10:44:57.627] [INFO] default - ##############################################
+[2018-04-11T10:44:57.628] [INFO] default - Updater configuration: { tenant: 'default',
+  server: '192.168.225.20',
+  user: 'namechanger',
+  password: '1q2w3e4r',
+  safe: false,
+  port: 80 }
+[2018-04-11T10:44:57.638] [INFO] default - Processing Robot entry: test\\LAPTOP-N4C4A480\TestUser Test=>TestNew
+[2018-04-11T10:44:57.639] [TRACE] default - Getting Organization Unit ID.
+[2018-04-11T10:44:57.787] [TRACE] default - Find robot definiation from orchestrator
+[2018-04-11T10:44:57.909] [TRACE] default - Getting back the detailed information about the robot
+[2018-04-11T10:44:57.936] [TRACE] default - update the robot name.
+[2018-04-11T10:44:58.090] [TRACE] default - checking update result.
+[2018-04-11T10:44:58.115] [INFO] default - Updated Robot name to TestNew for Test
+[2018-04-11T10:44:58.116] [INFO] default - Done

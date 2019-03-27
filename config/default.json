@@ -1,0 +1,47 @@
+{
+    "orchestrator": {
+        "tenant": "default",
+        "server": "192.168.225.20",
+        "user": "namechanger",
+        "password": "1q2w3e4r",
+        "safe": false,
+        "port": 80
+    },
+    "log": {
+        "appenders": {
+            "file": {
+                "type": "file",
+                "filename": "update.log"
+            },
+            "result": {
+                "type": "file",
+                "filename": "update_result.csv",
+                "layout": {
+                    "type": "pattern",
+                    "pattern": "%d,%m"
+                }
+            }
+        },
+        "categories": {
+            "default": {
+                "appenders": [
+                    "file"
+                ],
+                "level": "trace"
+            },
+            "result": {
+                "appenders": [
+                    "result"
+                ],
+                "level": "info"
+            }
+        }
+    },
+    "csv": {
+        "file": "myupdate.csv",
+        "from": 1,
+        "count": "all"
+    },
+    "prod": true,
+    "unitEnabled": true
+}
